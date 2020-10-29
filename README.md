@@ -33,7 +33,7 @@
 - Shreyas Barve - [LinkedIn](https://in.linkedin.com/in/shreyas-barve-153a5b192) - [Github](https://github.com/shreyasbarve) - [Website](https://shreyasbarve.github.io/)
 
 ## Install Python
-[Website](https://www.python.org/)
+> [www.python.org](https://www.python.org/)
 
 ## Output
 <img src="daa_project_output.png">
