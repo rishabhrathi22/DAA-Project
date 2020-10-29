@@ -9,7 +9,7 @@
 </div>
 
 
-## Python Libraries used
+## Python Modules used
 > random
 
 > timeit
