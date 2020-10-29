@@ -48,4 +48,4 @@
 
 
 ## Output
-<img align="center" height="900px" width="900px" src="daa_project_output.png">
+<img align="center" height="800px" width="800px" src="daa_project_output.png">
