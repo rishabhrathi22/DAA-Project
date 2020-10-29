@@ -5,7 +5,6 @@
 
 ![](https://img.shields.io/pypi/pyversions/django?style=for-the-badge)
 ![](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?color=%231CD507&style=for-the-badge)
-![](https://img.shields.io/static/v1?label=Libraries&message=Random | Timeit&style=for-the-badge&color=blue)
 
 </div>
 
