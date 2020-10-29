@@ -32,8 +32,9 @@
 - Rishabh Rathi - [LinkedIn](https://in.linkedin.com/in/rishabhrathi22) - [Github](https://github.com/rishabhrathi22) - [Website](http://rishabhrathi.co/)
 - Shreyas Barve - [LinkedIn](https://in.linkedin.com/in/shreyas-barve-153a5b192) - [Github](https://github.com/shreyasbarve) - [Website](https://shreyasbarve.github.io/)
 
-## Install Python
-> [www.python.org](https://www.python.org/)
+## Some information
+- Install Python
+  > [www.python.org](https://www.python.org/)
 
 ## Output
 <img src="daa_project_output.png">
