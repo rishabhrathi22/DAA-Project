@@ -53,6 +53,6 @@
 
 ## Video Explaination of Code
 
-[![Video Explaining Code](https://github.com/rishabhrathi22/DAA-Project/blob/main/thumbnail.png?raw=true)](https://youtu.be/-EBysYVSUrU)
+
 
 
