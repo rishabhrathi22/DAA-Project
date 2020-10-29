@@ -36,4 +36,4 @@
 [Website](https://www.python.org/)
 
 ## Output
-<img srrc="daa_project_code.png">
+<img src="daa_project_code.png">
