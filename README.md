@@ -8,14 +8,17 @@
 
 </div>
 
+
 ## Python Libraries used
 > random
 
 > timeit
 
+
 ## About
 - In this project the the concept of backtracking is used.
 - The project was done in python.
+
 
 ## Problem Statement
 - User has to provide the size of the matrix i.e. `number of rows` and `number of columns`.
@@ -29,10 +32,11 @@
 - Following this algorithm we have to calculate the number of all poassible paths from the first cell to the last column.
 - Also we have to print some of the paths.
 
+
 ## Members
 - Rishabh Rathi - [LinkedIn](https://in.linkedin.com/in/rishabhrathi22) - [Github](https://github.com/rishabhrathi22) - [Website](http://rishabhrathi.co/)
 - Shreyas Barve - [LinkedIn](https://in.linkedin.com/in/shreyas-barve-153a5b192) - [Github](https://github.com/shreyasbarve) - [Website](https://shreyasbarve.github.io/)
-![](https://img.shields.io/github/followers/shreyasbarve?label=Shreyas%20Barve&style=social)
+
 
 ## Some information
 - Install Python
@@ -41,6 +45,7 @@
   ```python
   python --version
   ```
+
 
 ## Output
 <img src="daa_project_output.png">
