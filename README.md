@@ -35,5 +35,5 @@
 ## Install Python
 [Website](https://www.python.org/)
 
-## Code
-<img src="daa_project_code.jpg">
+## Output
+<img srrc="daa_project_code.png">
