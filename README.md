@@ -38,14 +38,6 @@
 - Shreyas Barve - [LinkedIn](https://in.linkedin.com/in/shreyas-barve-153a5b192) - [Github](https://github.com/shreyasbarve) - [Website](https://shreyasbarve.github.io/)
 
 
-## Some information
-- Install Python
-  - [www.python.org](https://www.python.org/)
-- Check python version
-  ```python
-  python --version
-  ```
-
 
 ## Output
 <img align="center" height="800px" width="800px" src="daa_project_output.png">
@@ -56,3 +48,10 @@
 [![Video Explaining Code](https://github.com/rishabhrathi22/DAA-Project/blob/main/screenshot.png?raw=true)](https://youtu.be/-EBysYVSUrU "Video Explaination")
 
 
+## Some information
+- Install Python
+  - [www.python.org](https://www.python.org/)
+- Check python version
+  ```python
+  python --version
+  ```
