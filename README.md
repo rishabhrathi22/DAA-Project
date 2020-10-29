@@ -34,9 +34,9 @@
 
 ## Some information
 - Install Python
-  > [www.python.org](https://www.python.org/)
+  - [www.python.org](https://www.python.org/)
 - Check python version
-  ```
+  ```python
   python --version
   ```
 
