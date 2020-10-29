@@ -11,26 +11,25 @@
 
 ## Python Libraries used
 > random
-
 > timeit
 
 
 ## About
-- In this project the the concept of backtracking is used.
-- The project was done in python.
+- In this project, the concept of backtracking is used.
+- The project is done in python.
 
 
 ## Problem Statement
-- User has to provide the size of the matrix i.e. `number of rows` and `number of columns`.
-- The matrix will be generated automatically using `random` library of python.
-- The matrix will only contain values `1` and `0` in it. More about that below.
-- To find the efficiency of the program we have used another library called `timeit`.
-- We have to find all possible paths from the first cell `array[0][0]` to the last column of the matrix `array[x][n]`
-- There is a condition that we can move only to the first neighbouring cell only if that cell has value `1` in it.
-- If there is `0` in the neighbouring cell it means that we cannot pass through that cell, we have to take another route.
-- Here another route means any neighbouring cell which mat have value `1`.
-- Following this algorithm we have to calculate the number of all poassible paths from the first cell to the last column.
-- Also we have to print some of the paths.
+- User has to provide the size of the matrix that is the `number of rows` and `number of columns.`
+- The matrix will be generated automatically using the `random` library of python.
+- The matrix will only contain values `1` and `0` in it. 
+- There is a condition that we can move to the neighboring cell only if that cell has value `1` in it.
+- If there is `0` in the neighboring cell, it means that we cannot pass through that cell and, we have to take another route.
+- Here, another route means any neighboring cell which has value `1`.
+- Following this algorithm, we have to calculate the number of all possible paths from the first cell to the last column.
+- To find the efficiency of the program, we have used another library called `timeit.`
+- We have to find all possible paths from the first cell `array[0][0]` to the last column of the matrix `array[x][n].`
+- Also, we have to print some of the sample paths.
 
 
 ## Members
