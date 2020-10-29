@@ -7,6 +7,10 @@
 
 </div>
 
+## Python Libraries used
+> random
+> timeit
+
 ## About
 - In this project the the concept of backtracking is used.
 - The project was done in python.
@@ -26,3 +30,6 @@
 ## Members
 - Rishabh Rathi - [LinkedIn](https://in.linkedin.com/in/rishabhrathi22) - [Github](https://github.com/rishabhrathi22) - [Website](http://rishabhrathi.co/)
 - Shreyas Barve - [LinkedIn](https://in.linkedin.com/in/shreyas-barve-153a5b192) - [Github](https://github.com/shreyasbarve) - [Website](https://shreyasbarve.github.io/)
+
+## Install Python
+[Website](https://www.python.org/)
