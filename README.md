@@ -35,6 +35,10 @@
 ## Some information
 - Install Python
   > [www.python.org](https://www.python.org/)
+- Check python version
+  ```
+  python --version
+  ```
 
 ## Output
 <img src="daa_project_output.png">
