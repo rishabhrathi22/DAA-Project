@@ -4,6 +4,7 @@
 <div align="center">
 
 ![](https://img.shields.io/pypi/pyversions/django?style=for-the-badge)
+![](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?color=%231CD507&style=for-the-badge)
 
 </div>
 
@@ -31,6 +32,7 @@
 ## Members
 - Rishabh Rathi - [LinkedIn](https://in.linkedin.com/in/rishabhrathi22) - [Github](https://github.com/rishabhrathi22) - [Website](http://rishabhrathi.co/)
 - Shreyas Barve - [LinkedIn](https://in.linkedin.com/in/shreyas-barve-153a5b192) - [Github](https://github.com/shreyasbarve) - [Website](https://shreyasbarve.github.io/)
+![](https://img.shields.io/github/followers/shreyasbarve?label=Shreyas%20Barve&style=social)
 
 ## Some information
 - Install Python
